@@ -1,6 +1,6 @@
 ---
-title: "Welcome to Blowfish! :tada:"
-description: "This is a demo of the Blowfish theme for Hugo."
+title: "Welcome to my page! :tada:"
+description: "This is a description of me"
 ---
 
 Having graduated from Manchester Metropolitan University with a BSc (Hons) in Computer Games Technology and a MSC in Data Science, I spend my time experimenting with the cutting edge in game development tools, entering various GameJam's and hosting DnD (Dungeons and Dragons) sessions.
